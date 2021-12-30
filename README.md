@@ -1,2 +1,2 @@
 # Ingredient Implementation
-Uses implementation to mix, measure, and bake ingredients to create different recipes
+Utilizes implementation to mix, measure, and bake ingredients to create different recipes
